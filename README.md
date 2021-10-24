@@ -48,10 +48,10 @@ Besides that, it's a good idea to have a nice text editor like [VSCode](https://
 
 ```bash
 # Open the cmd/terminal and clone this repository
-$ git clone <https://github.com/danielpalmares/trillo-css>
+$ git clone <https://github.com/danielpalmares/trillo>
 
 # Open the project folder
-$ cd trillo-css
+$ cd trillo
 
 # Install the dependencies
 $ npm install
@@ -67,8 +67,7 @@ $ npm run start
 These tools were used in the project:
 
 - HTML
-- CSS Flexbox
-
+- SASS (Flexbox)
 ## License
 
-This project is under the MIT license. See the archive [LICENSE](https://github.com/danielpalmares/trillo-css/blob/main/LICENSE) for more details.
+This project is under the MIT license. See the archive [LICENSE](https://github.com/danielpalmares/trillo/blob/main/LICENSE) for more details.
