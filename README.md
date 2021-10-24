@@ -25,7 +25,7 @@
 
 ---
 
-## Layout 
+## Layout
 
 ![Layout](https://github.com/danielpalmares/trillo-css/blob/main/.github/trillo-layout.png)
 
@@ -37,9 +37,9 @@ Finished 🚀
 
 ## Pre-requirements
 
-Before getting started, you'll need to have installed in your machine these tools: 
+Before getting started, you'll need to have installed in your machine these tools:
 
-- [Git](https://git-scm.com) 
+- [Git](https://git-scm.com)
 - [Node JS](https://nodejs.org/en/)
 
 Besides that, it's a good idea to have a nice text editor like [VSCode](https://code.visualstudio.com/)
@@ -50,7 +50,7 @@ Besides that, it's a good idea to have a nice text editor like [VSCode](https://
 # Open the cmd/terminal and clone this repository
 $ git clone <https://github.com/danielpalmares/trillo-css>
 
-# Open the project folder 
+# Open the project folder
 $ cd trillo-css
 
 # Install the dependencies
@@ -67,7 +67,7 @@ $ npm run start
 These tools were used in the project:
 
 - HTML
-- FLEXBOX CSS
+- CSS Flexbox
 
 ## License
 
