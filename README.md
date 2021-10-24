@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Trillo" title="Trillo" src="https://github.com/danielpalmares/trillo-css/blob/main/img/favicon.png" />
+  <img alt="Trillo" title="Trillo" src="https://github.com/danielpalmares/trillo/blob/main/img/favicon.png" />
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Layout
 
-![Layout](https://github.com/danielpalmares/trillo-css/blob/main/.github/trillo-layout.png)
+![Layout](https://github.com/danielpalmares/trillo/blob/main/.github/trillo-layout.png)
 
 ---
 
